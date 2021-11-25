@@ -15,6 +15,7 @@ We would like you to create an live NPM dependency tree. The features it should 
 #### Extra credit features
 
  - [ ] Autocomplete of package name input
+ - [ ] "Get entire tree" option, which expands the entire tree in one click
  - [ ] Polish and UX
  - [ ] Highly reusable components
  - [ ] Tests
