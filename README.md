@@ -10,6 +10,7 @@ We would like you to create an live NPM dependency tree. The features it should 
  - [ ] Per package, fetch its information from NPM (`https://registry.npmjs.org/${PACKAGE_NAME}`)
  - [ ] Display the top level dependencies for the package via a tree
  - [ ] When clicking on a dependency, show its dependencies (tree expands)
+ - [ ] The project should include a basic `README.md` on how to run the project
 
 #### Extra credit features
 
