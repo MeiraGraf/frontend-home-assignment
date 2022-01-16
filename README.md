@@ -24,7 +24,7 @@ We would like you to create an live NPM dependency tree. The features it should 
 
 You should use the following tools to accomplish this task:
 
- - React
+ - React / Angular
  - MobX
  - TypeScript (latest)
 
